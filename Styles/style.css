@@ -1,0 +1,40 @@
+*{
+  font-family: 'Bree Serif', serif;
+  letter-spacing: 0.1rem;
+
+  color:darkslategrey
+}
+
+body{
+  width: 90%;
+  margin: auto;
+  background: -webkit-radial-gradient(rgb(253, 232, 254), rgb(67, 148, 234));
+  background: radial-gradient(rgb(253, 232, 254), rgb(67, 148, 234));
+}
+
+
+
+a{color: darkblue;}
+a:hover{color: blue;}
+a:visited{color: cyan;}
+
+.imgHeader{
+  width: 300px;
+}
+.good{
+  color: green;
+}
+
+.bad{
+  color: red;
+}
+
+.qte{
+  background-color:lightgray ;
+  width: 50%;
+  margin: auto;
+  font-size: 160%;
+  border-left: brown 3px solid;
+  padding: 80px 0 80px 30px;
+
+}
